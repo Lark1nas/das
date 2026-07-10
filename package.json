@@ -1,0 +1,9 @@
+{
+  "name": "twox_web",
+  "version": "1.0.0",
+  "private": true,
+  "description": "FiveM resource — Node side hosts a persistent WebSocket to the twox.lt backend.",
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}
